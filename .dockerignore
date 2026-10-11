@@ -1,0 +1,9 @@
+build/
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+.env
+*.md
+tests/
+docker/
